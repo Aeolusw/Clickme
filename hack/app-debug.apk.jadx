@@ -1,0 +1,37 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "..\\..\\Clickme\\app\\build\\intermediates\\apk\\debug\\app-debug.apk"
+  ],
+  "treeExpansionsV2": [
+    "t:JResources//lib//arm64-v8a",
+    "t:JSources"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "resource",
+      "tabPath": "lib/arm64-v8a/libnative-lib.so",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "C:\\Users\\HP\\AppData\\Local\\skylot\\jadx\\cache\\projects\\app-debug-8fd74e855137ab1538f4cb2e836be187",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "$TEXT",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
